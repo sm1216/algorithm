@@ -1,1 +1,1 @@
-# algorithm
+# needleman wunch algorithm (global alignment)
